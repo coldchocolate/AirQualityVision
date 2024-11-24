@@ -1,4 +1,4 @@
-미세먼지 농도 예측 모델
+## 미세먼지 농도 예측 모델
 
 이미지를 활용하여 미세먼지(PM2.5) 농도를 예측하는 딥러닝 모델입니다. ViT(Vision Transformer), CNN(Convolutional Neural Network), ResNet을 사용하여 예측 성능을 비교하였습니다.
 
