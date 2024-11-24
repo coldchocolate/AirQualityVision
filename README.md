@@ -16,17 +16,6 @@ ResNet18: Residual 구조를 도입하여 딥러닝 모델의 학습 효율 향�
 
 #### 결과 및 평가
 모델 성능 비교:
-ViT(WeightedMAE)
-epoch:70,
-train_mae=0.091521, val_mae=0.095729
-
-CNN(MAE)
-epoch:20,
-train_mae=0.065709, val_mae=0.149738
-
-ResNet18(WeightedMAE)
-epoch:30,
-train_mae=0.189832, val_mae=0.173581
 
 | 모델         | Epoch | Train MAE  | Validation MAE |
 | ------------ | ----- | ---------- | -------------- |
